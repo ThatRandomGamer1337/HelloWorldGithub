@@ -1,0 +1,8 @@
+C:\Users\W0473473\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorldGithub\HelloWorldGithub\bin\Debug\HelloWorldGithub.exe.config
+C:\Users\W0473473\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorldGithub\HelloWorldGithub\bin\Debug\HelloWorldGithub.exe
+C:\Users\W0473473\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorldGithub\HelloWorldGithub\bin\Debug\HelloWorldGithub.pdb
+C:\Users\W0473473\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorldGithub\HelloWorldGithub\obj\Debug\HelloWorldGithub.csproj.AssemblyReference.cache
+C:\Users\W0473473\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorldGithub\HelloWorldGithub\obj\Debug\HelloWorldGithub.csproj.SuggestedBindingRedirects.cache
+C:\Users\W0473473\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorldGithub\HelloWorldGithub\obj\Debug\HelloWorldGithub.csproj.CoreCompileInputs.cache
+C:\Users\W0473473\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorldGithub\HelloWorldGithub\obj\Debug\HelloWorldGithub.exe
+C:\Users\W0473473\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorldGithub\HelloWorldGithub\obj\Debug\HelloWorldGithub.pdb
